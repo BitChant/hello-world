@@ -1,2 +1,3 @@
 # hello-world
-my first repo
+Hey there this is my first repo and git program...
+Wish me luck
